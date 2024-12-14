@@ -37,7 +37,7 @@ Lets connect for further information.
 
 ### 📫 How to reach me
 
-- https://cloudfalcon.io
+- https://www.linkedin.com/in/hafeez-ur-rehman-286b985b/
 
 ### 🏆 Certifications
 
@@ -59,5 +59,3 @@ Lets connect for further information.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhmdio&show_icons=true&theme=radical)
 
 Please feel free to explore my repositories and contact me for any collaborations or questions. Let's build awesome things together! 🚀
-
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/645cbf295e197f85a2c3a804?variant=dark)](https://roadmap.sh)
